@@ -6,8 +6,8 @@ import os
 import requests
 
 # Set your Instagram username and password
-username = "imps_1999"
-password = "abbasaltaf"
+username = "xxx"
+password = "xxxx"
 profile_to_scrape = "_pragyasree"  # Replace with the desired profile username
 
 imageUrl = set()
